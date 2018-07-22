@@ -1,0 +1,23 @@
+.holder{
+    position: absolute;
+    bottom: 30px;
+    left: 0;
+    right: 0;
+    margin: 50px auto 10px auto;
+    display:block; 
+    width: 300px;
+}
+.holder a{
+    width: 30px !important;
+    height: 30px !important;
+    margin: 10px !important;
+    color: #D96B66;
+    font-size: 18px;
+    
+}
+.filter_component{
+    width: 150px !important;
+    overflow: hidden !important;
+    float: left !important;
+    
+}
